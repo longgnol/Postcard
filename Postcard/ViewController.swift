@@ -5,6 +5,7 @@
 //  Created by long nguyen on 3/4/15.
 //  Copyright (c) 2015 Long Nguyen. All rights reserved.
 //
+//  Comment added to test commits
 
 import UIKit
 
